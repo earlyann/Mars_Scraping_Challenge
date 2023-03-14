@@ -28,3 +28,5 @@ The Pandas functions were used to analyze the dataset by answering the following
 
 ### Exporting the DataFrame
 The final Pandas DataFrame was exported into a CSV file.
+
+Author: Lacey Morgan
