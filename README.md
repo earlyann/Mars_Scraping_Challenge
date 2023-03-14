@@ -7,7 +7,6 @@ This project involved scraping data from the web and pulling it into a Pandas da
 
 ### Technologies
 Python
-Jupyter Notebook
 Beautiful Soup
 Pandas
 Matplotlib
