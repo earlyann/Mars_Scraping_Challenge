@@ -1,4 +1,4 @@
-# Mars_Scraping_Challenge
+# Mars Web Scraping
 
 ## Project Overview
 This project involved scraping data from the web and pulling it into a Pandas dataframe for analysis. The result is two technical deliverables:
