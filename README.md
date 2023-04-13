@@ -6,10 +6,10 @@ This project involved scraping data from the web and pulling it into a Pandas da
   - Mars_weather, a notebook that scrapes and analyzes Mars weather data.
 
 ### Technologies
-Python
-Beautiful Soup
-Pandas
-Matplotlib
+  - Python
+  - Beautiful Soup
+  - Pandas
+  - Matplotlib
 
 ## Methods
 ### Web Scraping
